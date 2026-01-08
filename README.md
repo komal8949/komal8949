@@ -13,7 +13,7 @@ Data Analyst • Machine Learning Enthusiast • Fresher with Practical Experien
 
 <p align="center">
 🌐 <a href="https://komal-singh-shekhawat-portfolio.vercel.app/">Portfolio</a> •
-💼 <a href="https://www.linkedin.com/">LinkedIn</a> •
+💼 <a href="https://www.linkedin.com/in/komal-singh-shekhawat-054853234/">LinkedIn</a> •
 🐙 <a href="https://github.com/komal8949">GitHub</a> •
 📄 <a href="https://komal-singh-shekhawat-portfolio.vercel.app/resume.pdf">Resume</a>
 </p>
@@ -116,7 +116,7 @@ I enjoy turning **raw data into actionable insights** and building **projects th
 I’m a **fresher with practical experience in Data Analytics, Machine Learning, and Power BI dashboards**.  
 Looking for **Data Analyst / Data Scientist opportunities** to **transform data into actionable business insights**.
 
-📬 Connect with me: your-email@example.com | [LinkedIn](https://www.linkedin.com/)
+📬 Connect with me: your-komalsinghshekhawat825@gmail.com | [LinkedIn](https://www.linkedin.com/in/komal-singh-shekhawat-054853234/)
 
 ---
 
