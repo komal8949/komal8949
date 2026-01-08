@@ -122,5 +122,5 @@ Looking for **Data Analyst / Data Scientist opportunities** to **transform data 
 
 ## 🔍 SEO & Recruiter Keywords
 
-**Keywords:** Data Analyst, Data Scientist, Machine Learning, Python, Power BI, SQL, Deep Learning, Computer Vision, Dashboard, ML Projects, Portfolio, Business Intelligence, Fresher
+**Keywords:** Data Analyst, Data Scientist, Machine Learning, Python, Power BI, SQL, Deep Learning, Computer Vision, Dashboard, ML Projects, Portfolio, Business Intelligence
 
