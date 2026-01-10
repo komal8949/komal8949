@@ -1,10 +1,8 @@
-
-
 <!-- ===================== -->
-<!-- ANIMATED BANNER -->
+<!-- BANNER WITH COMMITS -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="100%" alt="Animated Banner"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=komal8949&theme=react-dark&area=true" width="100%" alt="GitHub Commits Graph"/>
 </p>
 
 <h3 align="center">
@@ -82,18 +80,6 @@ I enjoy turning **raw data into actionable insights** and building **projects th
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://komal-singh-shekhawat-portfolio.vercel.app/#projects" title="OLA Performance Dashboard">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="250" alt="OLA Dashboard Preview"/>
-  </a>
-  <a href="https://komal-singh-shekhawat-portfolio.vercel.app/#projects" title="Image Classification Project">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Image Classification Preview"/>
-  </a>
-  <a href="https://komal-singh-shekhawat-portfolio.vercel.app/#projects" title="Movie Recommender System">
-    <img src="https://media.giphy.com/media/l3vR1r0w8V8zVxTGQ/giphy.gif" width="250" alt="Movie Recommender Preview"/>
-  </a>
-</p>
-
 **Projects:**
 - **OLA Performance Dashboard** – Power BI analytics  
 - **Image Classification (PyTorch)** – 5-class CNN, 92% accuracy  
@@ -117,8 +103,3 @@ I’m a **fresher with practical experience in Data Analytics, Machine Learning,
 Looking for **Data Analyst / Data Scientist opportunities** to **transform data into actionable business insights**.
 
 📬 Connect with me: komalsinghshekhawat825@gmail.com | [LinkedIn](https://www.linkedin.com/in/komal-singh-shekhawat-054853234/)
-
----
-
-
-
