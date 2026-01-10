@@ -116,7 +116,7 @@ I enjoy turning **raw data into actionable insights** and building **projects th
 I’m a **fresher with practical experience in Data Analytics, Machine Learning, and Power BI dashboards**.  
 Looking for **Data Analyst / Data Scientist opportunities** to **transform data into actionable business insights**.
 
-📬 Connect with me: your-komalsinghshekhawat825@gmail.com | [LinkedIn](https://www.linkedin.com/in/komal-singh-shekhawat-054853234/)
+📬 Connect with me: komalsinghshekhawat825@gmail.com | [LinkedIn](https://www.linkedin.com/in/komal-singh-shekhawat-054853234/)
 
 ---
 
