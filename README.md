@@ -25,7 +25,7 @@ I have hands-on experience in **Power BI dashboards, ML & DL projects, and data-
 
 I enjoy turning **raw data into actionable insights** and building **projects that solve real-world problems**.  
 
----
+----
 
 ## 🧰 Skills & Tools 
 
